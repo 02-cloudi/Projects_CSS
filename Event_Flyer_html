@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Build an Event Flyer Page</title>
+</head>
+
+<body>
+
+  <header class="header-content">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg" alt="triangle banner" target="_blank" class="header-img">
+    <h1>Light-up Festival 2026</h1>
+    <p class="header-text"><span class="header-bold">When</span>: 31st October 2026</p>
+    <p class="header-text"><span class="header-bold">Where</span>: Jurong Library</p>
+  </header>
+
+  <hr>
+
+  <main class="main-content">
+    
+    <section class="section-content section-1">
+      <h2>Festival Highlights</h2>
+      <ul class="section-bullet">
+        <li>Mass Lanterns In The Sky</li>
+        <li>Tech Speech</li>
+        <li>Chinese Cultural Dance</li>
+      </ul>
+    </section>
+
+    <section class="section-content section-2">
+      <h2>Special Guests</h2>
+      <ul class="section-bullet">
+        <li>Elon Musk</li>
+        <li>Jeff Bezos</li>
+        <li>Mark Zuckerberg</li>
+      </ul>
+    </section>
+
+    <section class="section-content section-3">
+      <h2>Food Truck</h2>
+      <ul class="section-bullet">
+        <li>Mexican Tacos</li>
+        <li>Chinese Dumplings</li>
+        <li>Steak & Fries</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <hr>
+
+  <footer class="footer-content">
+    <p class="footer-text">&copy; Light-up Festival 2026</p>
+  </footer>
+
+</body>
+
+</html>
